@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 """ Square module"""
 
+
 class square():
     """Square class dipicting a perfect square"""
 
